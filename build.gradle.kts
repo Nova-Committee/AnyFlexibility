@@ -1,6 +1,7 @@
 plugins {
     java
     scala
+    `maven-publish`
 }
 
 group = "committee.nova"
